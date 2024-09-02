@@ -23,7 +23,7 @@ align = "center"
 }
 
 +label{
-text="select your preferred os"
+text="Welcome Back!"
 font = "Poppins Regular 16"
 color="#8f8f8f"
 top=30%-30
